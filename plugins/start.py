@@ -72,19 +72,20 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟ�
 
                     InlineKeyboardButton(
 
-                        "𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭🧰", url="https://telegra.ph/text-10-24")
+                        " 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩🇮🇳", url="https://t.me/Shayri_Music_Lovers" 
+                       
 
                   ],[
 
                     InlineKeyboardButton(
 
-                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👿", url="https://t.me/DecodeSupport"
+                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭🇮🇳", url="https://t.me/DecodeSupport"
 
                     ),
 
                     InlineKeyboardButton(
 
-                        "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/DeecodeBots"
+                        " 𝐔𝐩𝐝𝐚𝐭𝐞𝐬🇮🇳", url="https://t.me/DeecodeBots"
 
                     )
 
