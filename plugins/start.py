@@ -79,13 +79,13 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟ�
 
                     InlineKeyboardButton(
 
-                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭🇮🇳", url="https://t.me/DecodeSupport"
+                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭🇮🇳", url="https://t.me/AlishaSupport"
 
                     ),
 
                     InlineKeyboardButton(
 
-                        " 𝐔𝐩𝐝𝐚𝐭𝐞𝐬🇮🇳", url="https://t.me/DeecodeBots"
+                        " 𝐔𝐩𝐝𝐚𝐭𝐞𝐬🇮🇳", url="https://t.me/Lol_Tum_Bin"
 
                     )
 
