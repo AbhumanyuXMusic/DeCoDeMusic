@@ -31,23 +31,33 @@ async def _human_time_duration(seconds):
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-        await message.reply_text(
-        f"""**Hey, I'm {bn} 🎀
-I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ. Dᴇᴠᴇʟᴏᴩᴇᴅ Bʏ [Aʙʜɪᴍᴀɴʏᴜ Sɪɴɢʜ Rᴀɴᴀᴡᴀᴛ](https://t.me/Itz_Venom_xD).
-Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟʏ!**
-        """,
-        reply_markup=InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton(
-                        "𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭🧰", url="https://telegra.ph/file/51790a39b671ac24e79d5.jpg")
-                  ],[
-                    InlineKeyboardButton(
-                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👿", url="https://t.me/AlishaSupport"
-                    ),
-                    InlineKeyboardButton(
-                        "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/Shayri_Music_Lovers"
-                    )
+        await message.reply_photo(
+
+        photo=f"https://telegra.ph/file/bf0881bcaeff4236a7257.jpg",
+
+        caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
+
+💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ʀᴏᴄᴋꜱ ᴄᴀɴᴅʏ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+
+ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
+
+┏━━━━━━━━━━━━━━━━━┓
+
+┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀʙʜɪᴍɴᴀʏᴜ](https://t.me/Itz_VeNom_xD)
+
+┣★ ᴜᴘᴅᴀᴛᴇs : [ᴄʜᴀɴɴᴇʟ](https://t.me/Pubglovers_shayri_lovers)
+
+┣★ sᴜᴘᴘᴏʀᴛ : [ɢʀᴏᴜᴘ](https://t.me/AlishaSupport)
+
+┣★ ᴏᴡɴᴇʀ   : [ʀᴏᴄᴋꜱ ᴄᴀɴᴅʏ](https://t.me/candy_626)
+
+┗━━━━━━━━━━━━━━━━━┛
+
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
+
+ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/candy_626) ...
+
+━━━━━━━━━━━━━━━━━━━━━━━━**""",
                 ],[
                     InlineKeyboardButton(
                         "➕ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩➕",
